@@ -1,0 +1,38 @@
+* {
+  margin: 0;
+  box-sizing: border-box;
+  padding: 0;
+}
+
+/* header */
+
+header {
+  border: 2px solid black;
+  height: 20vh;
+  width: 100vw;
+}
+
+/* sections */
+main {
+  /* border: 2px solid black; */
+  height: 55vh;
+  width: 100vw;
+}
+
+section {
+  height: 100%;
+  width: 20%;
+  border: 2px solid black;
+  float: left;
+}
+
+.big-one {
+  width: 40%;
+}
+
+/* footer */
+footer {
+  border: 2px solid black;
+  height: 20vh;
+  width: 100vw;
+}
